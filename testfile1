@@ -1,5 +1,9 @@
 This is a test file.
 
+<<<<<<< HEAD
 ## Addedd ssh key to Github.
 
 Add extra content for push.
+=======
+Adding some extra data.
+>>>>>>> cdc1bcf87f9e139f0eb992df8c2f7573b0efbd53
